@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.qa.NoBrokerTest.DescriptinTest">
+        <methods>
+          <include name="before"/>
+          <include name="homePageTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.NoBrokerTest.DescriptinTest -->
+      <class name="com.qa.NoBrokerTest.search_ListTest">
+        <methods>
+          <include name="before"/>
+          <include name="homePageTest"/>
+          <include name="ListTest"/>
+        </methods>
+      </class> <!-- com.qa.NoBrokerTest.search_ListTest -->
+      <class name="com.qa.NoBrokerTest.HomeTest">
+        <methods>
+          <include name="before"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.NoBrokerTest.HomeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

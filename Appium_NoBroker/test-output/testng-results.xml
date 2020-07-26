@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="232674" started-at="2020-07-26T18:32:39Z" finished-at="2020-07-26T18:36:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="232674" started-at="2020-07-26T18:32:39Z" finished-at="2020-07-26T18:36:32Z">
+      <class name="com.qa.NoBrokerTest.search_ListTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.qa.NoBrokerTest.search_ListTest@11dc3715]" name="before" is-config="true" duration-ms="29005" started-at="2020-07-27T00:03:50Z" finished-at="2020-07-27T00:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.qa.NoBrokerTest.search_ListTest@11dc3715]" name="homePageTest" is-config="true" duration-ms="30334" started-at="2020-07-27T00:04:19Z" finished-at="2020-07-27T00:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="ListTest()[pri:0, instance:com.qa.NoBrokerTest.search_ListTest@11dc3715]" name="ListTest" duration-ms="14201" started-at="2020-07-27T00:04:49Z" finished-at="2020-07-27T00:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.NoBrokerTest.search_ListTest@11dc3715]" name="teardown" is-config="true" duration-ms="6270" started-at="2020-07-27T00:05:03Z" finished-at="2020-07-27T00:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.NoBrokerTest.search_ListTest -->
+      <class name="com.qa.NoBrokerTest.DescriptinTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.qa.NoBrokerTest.DescriptinTest@7ea37dbf]" name="before" is-config="true" duration-ms="29382" started-at="2020-07-27T00:05:10Z" finished-at="2020-07-27T00:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.qa.NoBrokerTest.DescriptinTest@7ea37dbf]" name="homePageTest" is-config="true" duration-ms="42721" started-at="2020-07-27T00:05:39Z" finished-at="2020-07-27T00:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="description()[pri:0, instance:com.qa.NoBrokerTest.DescriptinTest@7ea37dbf]" name="description" duration-ms="3823" started-at="2020-07-27T00:06:22Z" finished-at="2020-07-27T00:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- description -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.NoBrokerTest.DescriptinTest@7ea37dbf]" name="teardown" is-config="true" duration-ms="6275" started-at="2020-07-27T00:06:25Z" finished-at="2020-07-27T00:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.NoBrokerTest.DescriptinTest -->
+      <class name="com.qa.NoBrokerTest.HomeTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.qa.NoBrokerTest.HomeTest@2aa3cd93]" name="before" is-config="true" duration-ms="33428" started-at="2020-07-27T00:02:39Z" finished-at="2020-07-27T00:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.qa.NoBrokerTest.HomeTest@2aa3cd93]" name="homePageTest" duration-ms="30958" started-at="2020-07-27T00:03:13Z" finished-at="2020-07-27T00:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.NoBrokerTest.HomeTest@2aa3cd93]" name="teardown" is-config="true" duration-ms="6227" started-at="2020-07-27T00:03:43Z" finished-at="2020-07-27T00:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.NoBrokerTest.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
