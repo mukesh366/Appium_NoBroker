@@ -1,0 +1,4 @@
+# Exclude generated test reports & vendored files from GitHub language stats
+**/test-output/** linguist-generated=true
+**/*.min.js linguist-generated=true
+**/testng-reports.js linguist-generated=true
